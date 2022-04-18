@@ -1,5 +1,5 @@
 # Catoura
-Catoura is a clone of the website Quora, specifically made for use by cats!
+Catoura is a clone of the website Quora, specifically made for use by cats! This project was a group project done with the purpose of working with Express. Currently, this is not an active project, but there is always potential to improve the project in the future.
 
 ## Live Site
 Link to the live version of Catoura hosted by Heroku: [Catoura](https://catoura.herokuapp.com/)
